@@ -1,6 +1,6 @@
 <!-- Header Section with Banner -->
 <div align="center">
-  <img src="HELLO VISITOR.png" alt="Header Banner" style="width: 100%; height: 100%;">
+  <img src="3.png" alt="Header Banner" style="width: 100%; height: 100%; border:none">
 <!-- ^^ You can add a banner later by uploading a file named 'banner.png' to an 'assets' folder in this repo. For now, it's a stylish gradient. ^^ -->
 
 <br>
