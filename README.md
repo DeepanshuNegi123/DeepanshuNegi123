@@ -1,6 +1,6 @@
 <!-- Header Section with Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DeepanshuNegi123/DeepanshuNegi123/main/assets/banner.png" alt="Header Banner" style="width: 100%; height: auto;">
+  <img src="collage_landscape.png" alt="Header Banner" style="width: 100%; height: auto;">
 <!-- ^^ You can add a banner later by uploading a file named 'banner.png' to an 'assets' folder in this repo. For now, it's a stylish gradient. ^^ -->
 
 <br>
