@@ -15,9 +15,9 @@
 `💻 Fullstack Developer` | `🌐 Uttarakhand, Pauri Garwhal` | `📧 deepanshu9760873328@gmail.com`
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshu-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Your_Handle-7e22ce?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-COMING_SOON-7e22ce?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshu-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-Your_Handle-7e22ce?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-COMING_SOON-7e22ce?style=for-the-badge&logo=firefox&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Deepanshu-7e22ce?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepanshuNegi123)
 
 </div>
