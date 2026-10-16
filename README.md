@@ -1,101 +1,27 @@
-<!-- Header Section with Banner -->
-<div align="center">
-  <img src="0d1117.png" alt="Header Banner" style="width: 100%; height: 100%; border:none">
-<!-- ^^ You can add a banner later by uploading a file named 'banner.png' to an 'assets' folder in this repo. For now, it's a stylish gradient. ^^ -->
+# Hi, I'm Deepanshu Negi 👋
 
-<br>
-<br>
-
-<!-- Profile Picture -->
-<!-- You can add a profile picture later by uploading it and changing the link below -->
-<img src="https://i.imgur.com/placeholder.png" width="200" style="border-radius: 50%; border: 5px solid #7e22ce; box-shadow: 0 0 20px rgba(126, 34, 206, 0.5);" alt="Deepanshu Negi">
-
-# Hi, I'm Deepanshu Negi! 👋
-
-`💻 Fullstack Developer` | `🌐 Uttarakhand, Pauri Garwhal` | `📧 deepanshu9760873328@gmail.com`
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshu-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Twitter]()]()
-[![Portfolio]()]()
-[![GitHub](https://img.shields.io/badge/GitHub-Deepanshu-7e22ce?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepanshuNegi123)
-
-</div>
+Full-stack developer from Uttarakhand, India. Passionate about building robust web applications from scratch, exploring backend architectures, and solving problems with DSA.
 
 ---
 
-### 🧑‍💻 About Me
+### 💻 About Me
 
-> to the end of the world | techie loading....
-
-I'm a passionate `Fullstack Developer` who loves to `build robust and scalable applications from the ground up`.
-
-- 🔭 **I’m currently working on:** `Dsa -> PROJECTS`
-- 🌱 **I’m currently learning:** `Advanced backend concepts with JS`
-- 👯 **I’m looking to collaborate on:** `Innovative web development projects`
-- 🤔 **I’m looking for help with:** `Architecting large-scale systems`
-- 💬 **Ask me about:** `JavaScript, Node.js, React, and Databases`
-- ⚡ **Fun fact:** `You will remember me`
+- 🔭 **Building:** Full-stack web applications with React, Node.js, and Express
+- 🌱 **Deepening:** Advanced backend concepts, database design, and DSA in C++
+- 🤝 **Open to:** Collaborations on interesting projects & open-source contributions
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-**Languages:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frameworks & Libraries:**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases & Tools:**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,mysql,git" alt="Tech Stack" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📬 Connect With Me
 
-<div align="center">
-
-<!-- GitHub Stats Card -->
-[![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepanshuNegi123&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=7e22ce&text_color=ffffff&icon_color=7e22ce&bg_color=000000)](https://github.com/DeepanshuNegi123)
-
-<!-- Most Used Languages Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuNegi123&layout=compact&hide_border=true&theme=radical&title_color=7e22ce&text_color=ffffff&bg_color=000000)](https://github.com/DeepanshuNegi123)
-
-<!-- GitHub Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=DeepanshuNegi123&theme=onedark&no-frame=true&row=1&title=Stars,Commit,Repository)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📈 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DeepanshuNegi123&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=7e22ce&fire=7e22ce&currStreakLabel=7e22ce)
-
-</div>
-
----
-
-<div align="center">
-
-
-
-<br>
-
-<!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=DeepanshuNegi123&color=7e22ce&style=for-the-badge)
-
-**Thanks for visiting! Have a great day!** 🎉
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DeepanshuNegi123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deepanshu9760873328@gmail.com)
