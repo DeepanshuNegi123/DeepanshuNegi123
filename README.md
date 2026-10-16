@@ -12,10 +12,11 @@ Full-stack developer from Uttarakhand, India. Passionate about building robust w
 
 ---
 
+
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,mysql,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,mysql,postgres,git" alt="Tech Stack" />
 </p>
 
 ---
@@ -23,7 +24,7 @@ Full-stack developer from Uttarakhand, India. Passionate about building robust w
 ### 📬 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DeepanshuNegi123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/deepanshu-negi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deepanshu9760873328@gmail.com)
 
 
