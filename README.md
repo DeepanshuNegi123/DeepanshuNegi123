@@ -15,8 +15,10 @@ Full-stack developer from Uttarakhand, India. Passionate about building robust w
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,mysql,postgres,git" alt="Tech Stack" />
+<p align="left" style="pointer-events: none;">
+  <img src="https://skillicons.dev/icons?i=js,cpp,react,nodejs,express,mongodb,mysql,postgres,git" 
+       alt="Tech Stack" 
+       style="pointer-events: auto; cursor: not-allowed;" />
 </p>
 
 ---
